@@ -14,7 +14,7 @@ export const App = () => {
       style={{
         backgroundColor: 'rgb(215, 215, 215)',
         width: '100vw',
-        height: '100vh',
+        height: '100%',
       }}
     >
       <Routes>
