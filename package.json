@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "moviefinder-router",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MikeBeekeeper.github.io/goit-react-hw-05-movie/",
+  "homepage": "https://MikeBeekeeper.github.io/moviefinder-router/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@testing-library/jest-dom": "^5.16.3",
